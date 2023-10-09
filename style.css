@@ -13,8 +13,8 @@ body {
   font: 90% georgia, sans-serif;
   line-height: 1.88889;
   color: white;
-  background-color: black;
-  /* background-image: url("images/bg.png"); */
+  /* background-color: black; */
+  background-image: url("250x250/bg.jpeg");
   /* background-image: url("images/background1.jpg"); */
   /* background-repeat: no-repeat;
 	/* Set a specified height, or the minimum height for the background image */
